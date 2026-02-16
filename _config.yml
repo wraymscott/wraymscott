@@ -3,15 +3,15 @@ baseurl: "/wraymscott" # the name of your github repo
 url: "https://wraymscott.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+title: "Wray Scott"
+description: A website to showcase some of my projects!
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Satoshi Nakamoto
-author-bio: Creator of Bitcoin  # change to false to hide
+author: Wray M. Scott IV
+author-bio: WSU CS student  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
 # navigation menu
@@ -26,14 +26,14 @@ nav-menu:
   permalink: blog
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-instagram: https://instagram.com/
-github: https://github.com/
-linkedin: https://linkedin.com/
+twitter: false
+facebook: false
+instagram: false
+github: https://github.com/wraymscott
+linkedin: https://www.linkedin.com/in/wray-scott-1b1a91386/
 medium: false
 google-scholar: false
-email: false
+email: wraymscott@gmail.com
 
 # footer information
 footer-msg: "Powered by Tailpages"
@@ -45,4 +45,5 @@ google-analytics: G-WCRC1TC2V5
 # jekyll plugins - no need to change
 plugins:
     - jekyll-seo-tag
+
 
