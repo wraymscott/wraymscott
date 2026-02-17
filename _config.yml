@@ -47,5 +47,7 @@ google-analytics: G-WCRC1TC2V5
 plugins:
     - jekyll-seo-tag
 
+future: true
+
 
 
