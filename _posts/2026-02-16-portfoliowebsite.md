@@ -13,5 +13,3 @@ Building this site was a great learning experience as I haven't ever had the opp
 I highly recommend checking out [Tailpages](https://github.com/harrywang/tailpages)
 
 Stay tuned for more updates as I add new projects and insights!
-
-<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/portfolio_website/portfolio_website_screenshot.png">
