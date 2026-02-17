@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Portfolio Website: Hello World!
-tags: web showcase
+tags: 
+date: 2026-02-16
 ---
 
 Hello World, welcome to my personal portfolio website! This site will serve as a hub for my projects, journey, and other endeavors I will be taking. I figured everyone has a website why shouldn't I?
