@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Portfolio Website: Hello World!
-date: 2026-02-16 12:00:00
 tags: web showcase
 ---
 
