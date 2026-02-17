@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: projects
+title: Blog
+permalink: blog
 ---
 
 <div>
@@ -12,7 +12,3 @@ permalink: projects
     </div>
   {% endfor %}
 </div>
-
-<!-- If you prefer manual entries, keep them below -->
-
-
