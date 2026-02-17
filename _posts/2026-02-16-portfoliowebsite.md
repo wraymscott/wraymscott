@@ -14,7 +14,4 @@ I highly recommend checking out [Tailpages](https://github.com/harrywang/tailpag
 
 Stay tuned for more updates as I add new projects and insights!
 
-<figure>
-  <img src="/assets/img/portfolio_website/portfolio_website_screenshot.png" alt="A screenshot of my creating this project in vs code." style="width:200px; height:auto;">
-  <figcaption>Look I'm writing this project!</figcaption>
-</figure>
+<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/portfolio_website/portfolio_website_screenshot.png">
