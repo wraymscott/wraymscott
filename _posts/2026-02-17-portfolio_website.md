@@ -22,6 +22,6 @@ I finally got to dip my toes in html! and I got to learn the basics of markdown 
 Hopefully this is the first of many many projects to come!
 
 <fig>
-    <img class="mx-auto" alt="A screenshot of this posts markdown file" src="{{site.baseurl}}/assets/img/portfolio_website/portfolio_website_screenshot.png">
+    <img class="mx-auto" alt="A screenshot of this posts markdown file" src="{{site.baseurl}}/assets/img/posts/portfolio_website/portfolio_website_screenshot.png">
     <figcaption>Look it's me making this post!</figcaption>
 </fig>
