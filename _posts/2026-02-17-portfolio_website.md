@@ -1,7 +1,7 @@
 ---
 layout: post
-title: debug
-tags: tutorial open-source
+title: Portfolio Website: Hello World
+tags: web programming
 ---
 
 Hello World, welcome to my personal portfolio website! This site will serve as a hub for my projects, journey, and other endeavors I will be taking. I figured everyone has a website why shouldn't I?
@@ -13,3 +13,5 @@ Building this site was a great learning experience as I haven't ever had the opp
 I highly recommend checking out [Tailpages](https://github.com/harrywang/tailpages)
 
 Stay tuned for more updates as I add new projects and insights!
+
+<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/portfolio_website/portfolio_website_screenshot.png">
